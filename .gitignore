@@ -1,1 +1,9 @@
 .env
+__pycache__/
+*.pyc
+*.bak
+*.db
+scans.db
+.pytest_cache/
+.coverage
+sample_code.py
